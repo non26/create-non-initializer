@@ -1,0 +1,2 @@
+https://elijahmanor.com/blog/npm-init-initializer
+https://andersdjohnson.com/posts/automate-create-project-npm-init
